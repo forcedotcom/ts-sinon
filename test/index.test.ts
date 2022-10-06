@@ -65,7 +65,7 @@ describe('stubs', () => {
         return `override:${this.property.value}`;
       }
       public async returnAsync(): Promise<string> {
-        return await this.getAsync();
+        return this.getAsync();
       }
       private async getAsync(): Promise<string> {
         return Promise.resolve(`done:${this.property.value}`);
