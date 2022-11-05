@@ -14,7 +14,7 @@
   "dependencies": {
     "@salesforce/ts-types": "^1.7.0",
     "sinon": "^5.1.1",
-    "tslib": "^2.2.0"
+    "tslib": "^2.4.1"
   },
   "devDependencies": {
     "@salesforce/dev-config": "^3.0.0",
