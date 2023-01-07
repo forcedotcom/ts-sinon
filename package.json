@@ -1,6 +1,6 @@
 {
   "name": "@salesforce/ts-sinon",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "TypeScript helpers for Sinon",
   "main": "lib/index.js",
   "repository": "forcedotcom/ts-sinon",
