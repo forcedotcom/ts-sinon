@@ -1,3 +1,12 @@
+## [1.4.11](https://github.com/forcedotcom/ts-sinon/compare/1.4.10...1.4.11) (2023-07-11)
+
+
+### Bug Fixes
+
+* **deps:** bump semver from 5.7.1 to 5.7.2 ([63eea66](https://github.com/forcedotcom/ts-sinon/commit/63eea66aed103df74e16e7315f7b9d73a6851413))
+
+
+
 ## [1.4.10](https://github.com/forcedotcom/ts-sinon/compare/1.4.9...1.4.10) (2023-07-09)
 
 
