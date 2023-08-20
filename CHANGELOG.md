@@ -1,3 +1,12 @@
+## [1.4.15](https://github.com/forcedotcom/ts-sinon/compare/1.4.14...1.4.15) (2023-08-20)
+
+
+### Bug Fixes
+
+* **deps:** bump @salesforce/ts-types from 2.0.6 to 2.0.7 ([e1b0e88](https://github.com/forcedotcom/ts-sinon/commit/e1b0e88ba5358d0748454a2787d5486c62fd5675))
+
+
+
 ## [1.4.14](https://github.com/forcedotcom/ts-sinon/compare/1.4.13...1.4.14) (2023-08-06)
 
 
