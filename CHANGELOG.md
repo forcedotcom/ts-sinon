@@ -1,3 +1,12 @@
+## [1.4.16](https://github.com/forcedotcom/ts-sinon/compare/1.4.15...1.4.16) (2023-09-28)
+
+
+### Bug Fixes
+
+* **deps:** bump get-func-name from 2.0.0 to 2.0.2 ([e874775](https://github.com/forcedotcom/ts-sinon/commit/e8747756b6a0d915610082e6501e9686199cd82d))
+
+
+
 ## [1.4.15](https://github.com/forcedotcom/ts-sinon/compare/1.4.14...1.4.15) (2023-08-20)
 
 
