@@ -1,3 +1,12 @@
+## [1.4.18](https://github.com/forcedotcom/ts-sinon/compare/1.4.17...1.4.18) (2023-10-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @babel/traverse from 7.15.0 to 7.23.2 ([ec59a08](https://github.com/forcedotcom/ts-sinon/commit/ec59a08daa91e7e3cc3db5ed4e24c19914a3bd64))
+
+
+
 ## [1.4.17](https://github.com/forcedotcom/ts-sinon/compare/1.4.16...1.4.17) (2023-10-01)
 
 
