@@ -5,7 +5,7 @@
  * For full license text, see LICENSE.txt file in the repo root or https://opensource.org/licenses/BSD-3-Clause
  */
 
-import * as fs from 'fs';
+import * as fs from 'node:fs';
 import { expect } from 'chai';
 import { createSandbox, SinonSandbox } from 'sinon';
 import { fromStub, spyMethod, stubCallable, stubInterface, stubMethod, stubObject } from '../src/index';
