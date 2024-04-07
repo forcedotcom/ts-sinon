@@ -135,7 +135,7 @@ describe('stubs', () => {
   });
 
   it('should stub a callable', () => {
-    interface Callable {
+    type Callable = {
       (): string;
       foo: () => string;
       bar: boolean;
