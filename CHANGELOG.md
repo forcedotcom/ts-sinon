@@ -1,3 +1,12 @@
+## [1.4.22](https://github.com/forcedotcom/ts-sinon/compare/1.4.21...1.4.22) (2024-06-16)
+
+
+### Bug Fixes
+
+* **deps:** bump braces from 3.0.2 to 3.0.3 ([eb9f1c0](https://github.com/forcedotcom/ts-sinon/commit/eb9f1c0feefd15ab5c6cff5311f84a303043f092))
+
+
+
 ## [1.4.21](https://github.com/forcedotcom/ts-sinon/compare/1.4.20...1.4.21) (2024-06-16)
 
 
