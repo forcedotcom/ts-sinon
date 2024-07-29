@@ -1,3 +1,12 @@
+## [1.4.23](https://github.com/forcedotcom/ts-sinon/compare/1.4.22...1.4.23) (2024-07-29)
+
+
+### Bug Fixes
+
+* **deps:** devScripts update ([#291](https://github.com/forcedotcom/ts-sinon/issues/291)) ([cafd215](https://github.com/forcedotcom/ts-sinon/commit/cafd2151d73a64d32c6d4685dbde3eccdd416fe1))
+
+
+
 ## [1.4.22](https://github.com/forcedotcom/ts-sinon/compare/1.4.21...1.4.22) (2024-06-16)
 
 
