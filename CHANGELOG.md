@@ -1,3 +1,12 @@
+## [1.4.26](https://github.com/forcedotcom/ts-sinon/compare/1.4.25...1.4.26) (2024-08-25)
+
+
+### Bug Fixes
+
+* **deps:** bump micromatch from 4.0.4 to 4.0.8 ([81322ba](https://github.com/forcedotcom/ts-sinon/commit/81322ba074d239d6a211faa1a2a29b44c2af46f4))
+
+
+
 ## [1.4.25](https://github.com/forcedotcom/ts-sinon/compare/1.4.24...1.4.25) (2024-08-25)
 
 
