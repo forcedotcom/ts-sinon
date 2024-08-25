@@ -1,3 +1,12 @@
+## [1.4.25](https://github.com/forcedotcom/ts-sinon/compare/1.4.24...1.4.25) (2024-08-25)
+
+
+### Bug Fixes
+
+* **deps:** bump tslib from 2.6.3 to 2.7.0 ([156ce49](https://github.com/forcedotcom/ts-sinon/commit/156ce4991f89925f5d02aacd36f51389d7783394))
+
+
+
 ## [1.4.24](https://github.com/forcedotcom/ts-sinon/compare/1.4.23...1.4.24) (2024-08-04)
 
 
