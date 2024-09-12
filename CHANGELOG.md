@@ -1,3 +1,12 @@
+## [1.4.27](https://github.com/forcedotcom/ts-sinon/compare/1.4.26...1.4.27) (2024-09-12)
+
+
+### Bug Fixes
+
+* **deps:** bump path-to-regexp from 1.8.0 to 1.9.0 ([381377e](https://github.com/forcedotcom/ts-sinon/commit/381377e3458ebd39c514318e83b6abdb078e46be))
+
+
+
 ## [1.4.26](https://github.com/forcedotcom/ts-sinon/compare/1.4.25...1.4.26) (2024-08-25)
 
 
