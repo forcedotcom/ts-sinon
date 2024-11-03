@@ -1,3 +1,12 @@
+## [1.4.29](https://github.com/forcedotcom/ts-sinon/compare/1.4.28...1.4.29) (2024-11-03)
+
+
+### Bug Fixes
+
+* **deps:** bump tslib from 2.8.0 to 2.8.1 ([65fc636](https://github.com/forcedotcom/ts-sinon/commit/65fc6363823e407d9eb20a90063df3899d10a267))
+
+
+
 ## [1.4.28](https://github.com/forcedotcom/ts-sinon/compare/1.4.27...1.4.28) (2024-10-20)
 
 
