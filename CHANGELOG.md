@@ -1,3 +1,12 @@
+## [1.4.30](https://github.com/forcedotcom/ts-sinon/compare/1.4.29...1.4.30) (2024-11-17)
+
+
+### Bug Fixes
+
+* **deps:** bump cross-spawn from 7.0.3 to 7.0.5 ([1cafa9d](https://github.com/forcedotcom/ts-sinon/commit/1cafa9d3eea9ccaff0884fbcc19ff267f0cabacf))
+
+
+
 ## [1.4.29](https://github.com/forcedotcom/ts-sinon/compare/1.4.28...1.4.29) (2024-11-03)
 
 
