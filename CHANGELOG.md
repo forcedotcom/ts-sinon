@@ -1,3 +1,12 @@
+## [1.4.31](https://github.com/forcedotcom/ts-sinon/compare/1.4.30...1.4.31) (2025-08-29)
+
+
+### Bug Fixes
+
+* oss compliance ([1e50c8d](https://github.com/forcedotcom/ts-sinon/commit/1e50c8d58fd9af541418de37f5ad605c9d238976))
+
+
+
 ## [1.4.30](https://github.com/forcedotcom/ts-sinon/compare/1.4.29...1.4.30) (2024-11-17)
 
 
