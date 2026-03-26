@@ -1,3 +1,12 @@
+## [1.4.32](https://github.com/forcedotcom/ts-sinon/compare/1.4.31...1.4.32) (2026-03-26)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash from 4.17.21 to 4.17.23 ([4d0c341](https://github.com/forcedotcom/ts-sinon/commit/4d0c341036b58451d848689c10f2d87aed7598b0))
+
+
+
 ## [1.4.31](https://github.com/forcedotcom/ts-sinon/compare/1.4.30...1.4.31) (2025-08-29)
 
 
