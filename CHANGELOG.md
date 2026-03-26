@@ -1,3 +1,12 @@
+## [1.4.33](https://github.com/forcedotcom/ts-sinon/compare/1.4.32...1.4.33) (2026-03-26)
+
+
+### Bug Fixes
+
+* **deps:** bump flatted from 3.2.2 to 3.4.2 ([039ade4](https://github.com/forcedotcom/ts-sinon/commit/039ade458012da1463e1fb6ba97f2cf3a03b3ffb))
+
+
+
 ## [1.4.32](https://github.com/forcedotcom/ts-sinon/compare/1.4.31...1.4.32) (2026-03-26)
 
 
