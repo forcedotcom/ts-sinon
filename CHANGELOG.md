@@ -1,3 +1,12 @@
+## [1.4.36](https://github.com/forcedotcom/ts-sinon/compare/1.4.35...1.4.36) (2026-06-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @babel/core from 7.25.2 to 7.29.7 ([47daeee](https://github.com/forcedotcom/ts-sinon/commit/47daeee29b674cbd9ad653c910c54ffefcec15cf))
+
+
+
 ## [1.4.35](https://github.com/forcedotcom/ts-sinon/compare/1.4.34...1.4.35) (2026-06-17)
 
 
