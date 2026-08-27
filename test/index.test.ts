@@ -90,7 +90,7 @@ describe('stubs', () => {
         () => 'overrideCallable'
       ),
       overrideMethod() {
-        // eslint-disable-next-line @typescript-eslint/restrict-template-expressions, @typescript-eslint/no-unsafe-member-access
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
         return `overridden:${this.property.value}`;
       },
     });
@@ -159,7 +159,6 @@ describe('stubs', () => {
       () => 'ret1'
     );
 
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     const ret1 = stub();
     const ret2 = stub.foo();
 
