@@ -12,8 +12,12 @@ on:
         required: true
 jobs:
   npm:
+    permissions:
+      id-token: write
+      contents: read
     uses: salesforcecli/github-workflows/.github/workflows/npmPublish.yml@main
     with:
+      trustedPublishing: true
       tag: latest
       githubTag: ${{ github.event.release.tag_name || inputs.tag }}
     secrets: inherit
