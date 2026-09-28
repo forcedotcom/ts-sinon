@@ -1,3 +1,12 @@
+## [1.4.37](https://github.com/forcedotcom/ts-sinon/compare/1.4.36...1.4.37) (2026-09-28)
+
+
+### Bug Fixes
+
+* **deps:** bump browserslist from 4.28.2 to 4.28.9 ([9fa1670](https://github.com/forcedotcom/ts-sinon/commit/9fa1670c99952900177c8dca0235ce64ee7a269e))
+
+
+
 ## [1.4.36](https://github.com/forcedotcom/ts-sinon/compare/1.4.35...1.4.36) (2026-06-17)
 
 
