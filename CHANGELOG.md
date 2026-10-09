@@ -1,3 +1,12 @@
+## [1.4.39](https://github.com/forcedotcom/ts-sinon/compare/1.4.38...1.4.39) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** bump source-map-js from 1.2.1 to 1.2.2 ([4e39467](https://github.com/forcedotcom/ts-sinon/commit/4e39467cd30571c27640fc780e3f38a0667e3111))
+
+
+
 ## [1.4.38](https://github.com/forcedotcom/ts-sinon/compare/1.4.37...1.4.38) (2026-10-09)
 
 
