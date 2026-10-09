@@ -1,3 +1,12 @@
+## [1.4.38](https://github.com/forcedotcom/ts-sinon/compare/1.4.37...1.4.38) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** bump markdown-it from 14.3.0 to 14.3.2 ([f507f39](https://github.com/forcedotcom/ts-sinon/commit/f507f39d4eee72c0e5081bc2670255adbfc13c69))
+
+
+
 ## [1.4.37](https://github.com/forcedotcom/ts-sinon/compare/1.4.36...1.4.37) (2026-09-28)
 
 
