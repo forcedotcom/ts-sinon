@@ -1,3 +1,12 @@
+## [1.4.43](https://github.com/forcedotcom/ts-sinon/compare/1.4.42...1.4.43) (2026-11-08)
+
+
+### Bug Fixes
+
+* **deps:** bump brace-expansion from 1.1.11 to 1.1.21 ([1ea8588](https://github.com/forcedotcom/ts-sinon/commit/1ea85880a6527ed7f9f0b924a97cacec0fd46178))
+
+
+
 ## [1.4.42](https://github.com/forcedotcom/ts-sinon/compare/1.4.41...1.4.42) (2026-11-08)
 
 
