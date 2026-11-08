@@ -1,3 +1,12 @@
+## [1.4.41](https://github.com/forcedotcom/ts-sinon/compare/1.4.40...1.4.41) (2026-11-08)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 3.14.1 to 3.15.2 ([9ca7448](https://github.com/forcedotcom/ts-sinon/commit/9ca7448ed2c165c04f6777b03b3d38cf5f3140c3))
+
+
+
 ## [1.4.40](https://github.com/forcedotcom/ts-sinon/compare/1.4.39...1.4.40) (2026-10-22)
 
 
