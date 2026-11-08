@@ -1,3 +1,12 @@
+## [1.4.42](https://github.com/forcedotcom/ts-sinon/compare/1.4.41...1.4.42) (2026-11-08)
+
+
+### Bug Fixes
+
+* **deps:** bump picomatch from 2.3.1 to 2.3.2 ([bddc510](https://github.com/forcedotcom/ts-sinon/commit/bddc5103a6911caa0036c760644c36466fd6dcef))
+
+
+
 ## [1.4.41](https://github.com/forcedotcom/ts-sinon/compare/1.4.40...1.4.41) (2026-11-08)
 
 
