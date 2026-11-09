@@ -1,3 +1,12 @@
+## [1.4.44](https://github.com/forcedotcom/ts-sinon/compare/1.4.43...1.4.44) (2026-11-09)
+
+
+### Bug Fixes
+
+* **deps:** bump diff from 3.5.0 to 3.5.1 ([79cf1a6](https://github.com/forcedotcom/ts-sinon/commit/79cf1a6a34af48743e8b39676f3f0f216785e91b))
+
+
+
 ## [1.4.43](https://github.com/forcedotcom/ts-sinon/compare/1.4.42...1.4.43) (2026-11-08)
 
 
